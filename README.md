@@ -32,15 +32,6 @@ To run the project in development mode, execute the following command:
 npm run dev
 ```
 
-This will start the development server and open the application in your default web browser. Any changes you make to the source code will automatically trigger hot-reloading, allowing you to see the updates in real-time.
-
-To build the project for production, use the following command:
-
-```
-npm run build
-```
-
-This command will create an optimized production-ready build of your project, which can be deployed to a web server or a hosting platform.
 
 ## Acknowledgements
 
